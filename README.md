@@ -34,8 +34,8 @@ Berikan deskripsi yang lebih mendetail
 ## Accuracy
 
 ## Anggota Tim
--Baiq Annisa Tsalist Agna F1D022036
--Dewi Agustin Asri F1D022039
--Muhamad Gilang Rahardi Putra F1D022066
--Kalsum Rahmawati F1D022126
-Regia Puspa Amaranthi F1D022156
+- Baiq Annisa Tsalist Agna F1D022036  
+- Dewi Agustin Asri F1D022039   
+- Muhamad Gilang Rahardi Putra F1D022066   
+- Kalsum Rahmawati F1D022126    
+- Regia Puspa Amaranthi F1D022156    
